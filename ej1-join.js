@@ -26,3 +26,5 @@ let arrayFrase = [
 ];
 
 let fraseNueva = arrayFrase.join(" ");
+console.log(fraseNueva);
+
